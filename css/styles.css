@@ -1,7 +1,8 @@
 .hero {
   min-height: 70vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-                    url("../img/imagenes wireframe/Wireframe - 1.png");
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    url("../img/imagenes wireframe/Wireframe - 1.png");
   background-size: cover;
   background-position: center;
 }
