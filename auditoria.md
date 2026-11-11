@@ -49,7 +49,7 @@ Este documento detalla los resultados de las auditorías de rendimiento, accesib
 - **SEO:** 100 / 100[cite: 19]
 - *Observación:* Excelente rendimiento y carga fluida de los detalles del sendero.
 
-### 📌 Iniciar Sesión (`login.html`)
+###  Iniciar Sesión (`login.html`)
 - **Performance:** 100 / 100[cite: 23]
 - **Accessibility:** 100 / 100[cite: 23]
 - **Best Practices:** 100 / 100[cite: 23]
